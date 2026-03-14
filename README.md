@@ -6,5 +6,7 @@
 pip install pywin32
 
 pip install pdf2docx
+
+pip install python-docx
 ```
 
